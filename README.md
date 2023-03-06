@@ -34,8 +34,8 @@
      </div>
     </div>
     <div>
-        <h2 class="text-center bg-violet-300 text-white text-9xl">Poonyarit kwangthong</h2>
-        <h2 class="text-center bg-red-300 text-white text-5xl">6414421006</h2>
+        <h2 class="text-center bg-violet-300 text-white text-9xl">Poomoanyar Suwanratsamee</h2>
+        <h2 class="text-center bg-red-300 text-white text-5xl">6414421037</h2>
         <h2 class="text-center bg-blue-300 text-white text-8xl">information technology</h2>
     </div>
 </body>
